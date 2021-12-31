@@ -1530,6 +1530,9 @@ yeelight==0.7.8
 # homeassistant.components.youless
 youless-api==0.16
 
+# homeassistant.components.zimi
+zcc-helper==1.4
+
 # homeassistant.components.zeroconf
 zeroconf==0.38.1
 

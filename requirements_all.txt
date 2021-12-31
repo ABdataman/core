@@ -2514,6 +2514,9 @@ youless-api==0.16
 # homeassistant.components.media_extractor
 youtube_dl==2021.12.17
 
+# homeassistant.components.zimi
+zcc-helper==1.4
+
 # homeassistant.components.zengge
 zengge==0.2
 
